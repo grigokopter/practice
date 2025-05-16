@@ -3,7 +3,7 @@ import pandas as pd
 # Примерные данные
 data = {
     'Name': ['Alice', 'Bob', 'Charlie', 'David'],
-    'Age': [25, 30, 33, 40],
+    'Age': [25, 31, 33, 49],
     'Score': [85.5, 90.3, 78.9, 92.1]
 }
 
