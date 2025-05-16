@@ -1,4 +1,4 @@
 # practice
 learning
 and
-fuuun
+fun
